@@ -541,6 +541,7 @@ Total deals: 489
 | 💡| [ProductLogz](https://productlogz.com) | Collect & organize Feature Requests, conduct user research with in App Surveys, publish Roadmaps & Changelogs with User Notifications. | **10% OFF** on the LTD Plans with code *BF2024SALE* . Nov 24 - Dec 6 |
 | 🚀 | [Calamari](https://www.calamari.io/?utm_source=github-awesome-blackfriday) | Platform with tools for collecting and sharing information about people and their work. | **30% OFF** first payment (month/year) *BF2024_CODE* . Nov 17 - Dec 2 |
 | 🤖 | [Best Directories](https://bestdirectories.org) | Discover the best online directories in one place at BestDirectories.org. Explore, compare, and find top-rated directories for various niches, helping you navigate the web with ease. | **50% OFF** once off *BLACKFRIDAY50* . Nov 17 - Dec 30 |
+| 💚 | [WishKit](https://www.wishkit.io) | Gather user feedback for your iOS app and prioritize features based on user votes. | **33% OFF** for an entire year! *BLACKFRIDAY24* . Nov 26 - Dec 30 |
 
 
 
